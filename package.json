@@ -1,0 +1,24 @@
+{
+  "name": "beeper",
+  "version": "1.0.0",
+  "description": "Automatic tweet reader and writer using neural networks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosvpi/beeper.git"
+  },
+  "author": "Carlos Vázquez Pérez-Íñigo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosvpi/beeper/issues"
+  },
+  "dependencies": {
+    "twitter": "1.3.0",
+    "jasmine": "2.4.1",
+    "debug": "2.2.0"
+  },
+  "homepage": "https://github.com/carlosvpi/beeper#readme"
+}
